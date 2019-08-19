@@ -1,0 +1,31 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+//google api
+@import url('https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700');
+
+@import url('https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i');
+
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+//from resume
+@import '../scss/bootstrap-overrides';
+@import '../scss/resume-item';
+@import '../scss/variables';
+@import '../scss/resume.scss';
+@import '../scss/global';
+@import '../scss/nav';
+@import '../scss/mixins';
+
+@import '../css/resume.css';
+@import '../css/resume.min.css';
+@import '../css/modal.css';
+@import '../vendor/fontawesome-free/css/all.css';
+
+
+
